@@ -84,7 +84,7 @@ public class FlattenSchemaImports {
             // 
             removeRootSchemaNsTagsAndImports(document);
             // remove simleType and ComplexType element's name attribute
- //           removeNameAttribute(document);
+//            removeNameAttribute(document);
             // remove annotations
 //            removeAnnotations(document);
             // print whole final schema
